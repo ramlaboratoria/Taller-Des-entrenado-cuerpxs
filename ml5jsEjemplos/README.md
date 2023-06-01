@@ -1,22 +1,22 @@
-#Partes del cuerpo en PosNet (keypoints)
+# Partes del cuerpo en PosNet (keypoints)
 
--nose
--leftEye
--rightEye
--leftEar
--rightEar
--leftShoulder
--rightShoulder
--leftElbow
--rightElbow
--leftWrist
--rightWrist
--leftHip
--rightHip
--leftKnee
--rightKnee
--leftAnkle
--rightAnkle
--leftEye
--rightEye
--rightEar
+- nose
+- leftEye
+- rightEye
+- leftEar
+- rightEar
+- leftShoulder
+- rightShoulder
+- leftElbow
+- rightElbow
+- leftWrist
+- rightWrist
+- leftHip
+- rightHip
+- leftKnee
+- rightKnee
+- leftAnkle
+- rightAnkle
+- leftEye
+- rightEye
+- rightEar
