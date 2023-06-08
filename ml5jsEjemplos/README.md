@@ -1,19 +1,19 @@
 # Partes del cuerpo en PosNet (keypoints)
 
-- 0	nose
-- 1	leftEye
-- 2	rightEye
-- 3	leftEar
-- 4	rightEar
-- 5	leftShoulder
-- 6	rightShoulder
-- 7	leftElbow
-- 8	rightElbow
-- 9	leftWrist
-- 10	rightWrist
-- 11	leftHip
-- 12	rightHip
-- 13	leftKnee
-- 14	rightKnee
-- 15	leftAnkle
-- 16	rightAnkle
+- 0	nose  (nariz)
+- 1	leftEye  (ojo izquierdo)
+- 2	rightEye  (ojos derecho)
+- 3	leftEar   (oreja izquierda)
+- 4	rightEar   (oreja derecha)
+- 5	leftShoulder  (hombro izquierdo)
+- 6	rightShoulder  (hombro derecho)
+- 7	leftElbow      (codo izquierdo)
+- 8	rightElbow     (codo derecho)
+- 9	leftWrist      (muñeca izquierda)
+- 10	rightWrist   (muñeca derecha)
+- 11	leftHip      (cadera izquierda)
+- 12	rightHip    (cadera derecha)
+- 13	leftKnee    (rodilla izquierda)
+- 14	rightKnee   (rodilla derecha)
+- 15	leftAnkle    (tobillo izquierdo)
+- 16	rightAnkle    (tobillo derecho)
