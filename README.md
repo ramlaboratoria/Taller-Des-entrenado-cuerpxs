@@ -10,7 +10,6 @@
 | **Espacio** | Foro Pandeo |
 | **Fechas** | 6 al 8 de junio, 2023 |
 | **Horario** | 16:00 – 19:00 hrs (3 sesiones de 3 horas) |
-| **Costo** | $300 MXN por sesión. Se darán 2 becas completas |
 | **Cupo máximo** | 15 personas |
 | **Inscripción** | Escribir a ramlaboratoria@gmail.com con una breve carta de motivos |
 
