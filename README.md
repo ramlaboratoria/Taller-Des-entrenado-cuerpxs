@@ -93,7 +93,7 @@ Artista digital, investigadora, docente y live coder. Estudiante de Maestría en
 
 - Instagram: [@ramlaboratoria](https://www.instagram.com/ramlaboratoria/)
 - Twitter: [@ramlaboratoria](https://twitter.com/ramlaboratoria)
-- Web: [ram-lab.glitch.me](https://ram-lab.glitch.me/index.html)
+- Web: [ramlab.cc](https://ramlab.cc)
 - Correo: ramlaboratoria@gmail.com
 
 ---
